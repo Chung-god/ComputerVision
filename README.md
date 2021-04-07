@@ -14,4 +14,4 @@ Using Python
  5. Edge tracking by hysteresis
 
 If you wanna see more about Canny Edge Detector, then visit my blog please.
-[tistory](https://com24everyday.tistory.com/370, "blog link")
+[tistory](https://com24everyday.tistory.com/370 , "blog link")
